@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @powerpowe
-- 👀 I’m interested in math, machine learning
-- 🌱 I’m currently learning math, machine learning
+- 👀 I’m interested in math, ML/DL
+- 🌱 I’m currently learning math, ML/DL
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 📫 How to reach me : lbj2001@g.skku.edu
 
 <!---
 powerpowe/powerpowe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
