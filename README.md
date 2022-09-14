@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @powerpowe
-- 👀 I’m interested in math, ML/DL
-- 🌱 I’m currently learning math, ML/DL
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : lbj2001@g.skku.edu
-
-<!---
-powerpowe/powerpowe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Hi, I'm Lee Byung Joon (powerpowe) :smile:
+ :fire: AI / Math / Data Science 
+ 
+ :email: lbj2001@g.skku.edu
+ 
+ :school: SKKU Math
+ 
+ :office: [MIDAS Lab](https://www.midasl.ch/) in SKKU
