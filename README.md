@@ -23,4 +23,5 @@
 # :page_with_curl: Projects
 ### [face-mouse-control](https://github.com/Denev6/face-mouse-control)
 - The Study on Alternative Input Method Using Real-Time Face Recognition
+- [Paper(KCI)](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002879022)
 
