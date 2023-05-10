@@ -6,8 +6,6 @@
  
  :school: SKKU Math & Applied AI
  
- :office: [MIDAS Lab](https://www.midasl.ch/)
- 
  :adult: [My blog](https://blog.naver.com/2001lbj)
 
 # :books: Skills
