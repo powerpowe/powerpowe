@@ -4,7 +4,7 @@
  
  :email: lbj2001@g.skku.edu
  
- :school: SKKU Math & AI
+ :school: SKKU Math & Applied AI
  
  :office: [MIDAS Lab](https://www.midasl.ch/)
  
