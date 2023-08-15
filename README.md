@@ -2,7 +2,7 @@
 ### Hi, I'm Lee Byung Joon (powerpowe) :smile:
  :fire: AI / Math / Computer Vision / Data Science  
  
- :email: lbj2001@g.skku.edu
+ :email: lbj2001@g.skku.edu / 2001lbj49@gmail.com
  
  :school: SKKU Math & Applied AI
  
