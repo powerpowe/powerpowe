@@ -14,9 +14,7 @@
 
 ### Secondary (or currently studying)
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white">
- 
-### Hobby
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
+
 
 # :page_with_curl: Projects
 ### [face-mouse-control](https://github.com/Denev6/face-mouse-control)
