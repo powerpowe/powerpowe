@@ -2,6 +2,7 @@
  :school: SKKU Math & Applied AI
 
  :lab_coat: [SKKU IISLab](http://iislab.skku.edu/iish/)
+ 
  :email: lbj2001@g.skku.edu / 2001lbj49@gmail.com
 
  :adult: [My blog](https://blog.naver.com/2001lbj)
