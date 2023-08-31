@@ -14,6 +14,8 @@
 - Noisy Label
 
 - Semi-Supervised Learning
+
+- Continual Learning
 ### Data Science
 - Tree Based Algorithm
 
