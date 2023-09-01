@@ -16,7 +16,7 @@
 - Semi-Supervised Learning
 
 - Continual Learning
-### Data Science
+### Tabular Data
 - Tree Based Algorithm
 
 - Deep Tabular Learning
