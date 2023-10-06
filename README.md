@@ -22,7 +22,6 @@
 - Deep Tabular Learning
 
 - Data Visualization
-### Recommendation System
   
 ## :books: Skills
 ### Main
