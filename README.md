@@ -13,8 +13,6 @@
 
 - Noisy Label
 
-- Semi-Supervised Learning
-
 - Continual Learning
 ### Tabular Data
 - Tree Based Algorithm
