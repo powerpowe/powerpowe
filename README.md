@@ -10,10 +10,10 @@
 ## :balloon: Interests
 ### Deep Learning for Real World Data
 - Long Tailed Learning
-   - How to handle imbalanced data?
+   - How should we handle imbalanced data?
 
 - Noisy Label
-
+   - How should we handle data with inaccurate labels?"
 - Continual Learning
 ### Tabular Data
 - Tree Based Algorithm
