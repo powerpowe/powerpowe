@@ -33,10 +33,10 @@
 
 ## :pager: Projects 
 ### [face-mouse-control](https://github.com/Denev6/face-mouse-control)
-- "Study on Alternative Input Method Using Real-Time Face Recognition" paper's code.
+- Alternative Input Method Using Real-Time Face Recognition
   
 ## :page_with_curl: Papers
-### The Study on Alternative Input Method Using Real-Time Face Recognition
+### Non-contact Input Method based on Face Recognition and Pyautogui Mouse Control
 - Journal of the Korea Institute of Information and Communication Engineering (JKIICE)
 - [Paper](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002879022)
 
