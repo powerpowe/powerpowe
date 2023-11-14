@@ -17,12 +17,12 @@
      
 - Continual Learning
    - How should we handle new data without catastrophic forgetting?
+
+- Out-of-distribution (OOD)  
 ### Tabular Data
 - Deep Tabular Learning
 
 - Decision tree based algorithms
-  
-- Data Visualization
 
 ## :books: Skills
 ### Main
