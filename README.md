@@ -12,10 +12,11 @@
 - Long Tailed Learning
    - How should we handle imbalanced data?
 
-- Noisy Label
-   - How should we handle data with inaccurate labels?"
+- Online Learning
+   - How should we handle streaming real time data?
+     
 - Continual Learning
-   - How should we handle new data without catastrophic forgetting?"
+   - How should we handle new data without catastrophic forgetting?
 ### Tabular Data
 - Deep Tabular Learning
 
