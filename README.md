@@ -44,10 +44,10 @@
 
 ## Conference
 ### Considering Data Difficulty in Long Tailed Learning via Probability-Based Margin
-- Korean Institute of Intelligent Systems (KIIS)
+- Abstracts of KIIS Autumn Conference 2023
 
 ### Privacy-preserving ECG Stress Prediction via Federated Learning 
-- Korean Institute of Intelligent Systems (KIIS)
+- Abstracts of KIIS Autumn Conference 2023
 
 ### Supervised Contrastive Learning for Improving Mental Illness Detection Using Smartwatch ECG 
 - Joint Conference of Korean Artificial Intelligence Association (JKAIA)
