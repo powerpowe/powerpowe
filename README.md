@@ -37,10 +37,12 @@
 - Alternative Input Method Using Real-Time Face Recognition
   
 ## :page_with_curl: Papers
+### Journal
 ### Non-contact Input Method based on Face Recognition and Pyautogui Mouse Control
 - Journal of the Korea Institute of Information and Communication Engineering (JKIICE)
 - [Paper](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002879022)
 
+### Conference
 ### Considering Data Difficulty in Long Tailed Learning via Probability-Based Margin
 - Korean Institute of Intelligent Systems (KIIS)
 
