@@ -47,7 +47,7 @@
 ### Privacy-preserving ECG Stress Prediction via Federated Learning 
 - Korean Institute of Intelligent Systems (KIIS)
 
-### Supervised Contrastive Learning for Improving Mental Illness Detection Using Smartwatch ECG (Submitted)
+### Supervised Contrastive Learning for Improving Mental Illness Detection Using Smartwatch ECG 
 - Joint Conference of Korean Artificial Intelligence Association (JKAIA)
 
 
