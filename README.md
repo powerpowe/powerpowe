@@ -18,7 +18,7 @@
 - Continual Learning
    - How should we handle new data without catastrophic forgetting?
 
-- Out-of-distribution (OOD)  
+- Light-weight Neural Network
 ### Tabular Data
 - Deep Tabular Learning
 
@@ -44,10 +44,10 @@
 
 ## Conference
 ### Considering Data Difficulty in Long Tailed Learning via Probability-Based Margin
-- Abstracts of KIIS Autumn Conference 2023
+- Korean Institute of Intelligent Systems Autumn Conference 2023 (KIIS)
 
 ### Privacy-preserving ECG Stress Prediction via Federated Learning 
-- Abstracts of KIIS Autumn Conference 2023
+- Korean Institute of Intelligent Systems Autumn Conference 2023 (KIIS)
 
 ### Supervised Contrastive Learning for Improving Mental Illness Detection Using Smartwatch ECG 
 - Joint Conference of Korean Artificial Intelligence Association (JKAIA)
