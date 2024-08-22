@@ -1,5 +1,5 @@
 ## :smile: Hi, I'm Lee Byung Joon (powerpowe) 
- :school: SKKU Math & Applied AI
+ :school: Bachelor of Science in Mathematics & Bachelor of Applied Artificial Intelligence
 
  :lab_coat: [SKKU IISLab](http://iislab.skku.edu/iish/)
  
