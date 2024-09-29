@@ -15,10 +15,7 @@
 - Online Learning
    - How should we handle streaming real time data?
      
-- Continual Learning
-   - How should we handle new data without catastrophic forgetting?
-
-- Light-weight Neural Network
+- Domain Generalization / Test-Time Adaptation
 ### Tabular Data
 - Deep Tabular Learning
 
@@ -43,6 +40,9 @@
 - [Paper](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002879022)
 
 ## Conference
+### CAFTTA: Mitigating Unseen Class Forgetting in Test-Time Adaptation with Knowledge Fusion
+- Joint 13th International Conference on Soft Computing and Intelligent Systems and 25th International Symposium on Advanced Intelligent Systems (SCIS&ISIS)
+  
 ### Considering Data Difficulty in Long Tailed Learning via Probability-Based Margin
 - Korean Institute of Intelligent Systems Autumn Conference 2023 (KIIS)
 
