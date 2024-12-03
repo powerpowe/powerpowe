@@ -42,6 +42,7 @@
 ## Conference
 ### CAFTTA: Mitigating Unseen Class Forgetting in Test-Time Adaptation with Knowledge Fusion
 - Joint 13th International Conference on Soft Computing and Intelligent Systems and 25th International Symposium on Advanced Intelligent Systems (SCIS&ISIS)
+- [Paper](https://ieeexplore.ieee.org/document/10759970)
   
 ### Considering Data Difficulty in Long Tailed Learning via Probability-Based Margin
 - Korean Institute of Intelligent Systems Autumn Conference 2023 (KIIS)
