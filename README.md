@@ -54,6 +54,6 @@
 - Korean Institute of Intelligent Systems Autumn Conference 2023 (KIIS)
 
 ### Supervised Contrastive Learning for Improving Mental Illness Detection Using Smartwatch ECG 
-- Joint Conference of Korean Artificial Intelligence Association (JKAIA)
+- Korean Artificial Intelligence Association Fall Conference 2023 (KAIA)
 
 
