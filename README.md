@@ -46,6 +46,7 @@
 
 ### Examination of Efficient Strategies on Knowledge Distillation Methods in Continual Learning
 - Korea Software Congress 2024 (KSC2024)
+- [Paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12042097)
 
 ### Considering Data Difficulty in Long Tailed Learning via Probability-Based Margin
 - Korean Institute of Intelligent Systems Autumn Conference 2023 (KIIS)
