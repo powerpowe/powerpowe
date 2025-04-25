@@ -8,18 +8,16 @@
  :adult: [My blog](https://blog.naver.com/2001lbj)
  
 ## :balloon: Interests
-### Deep Learning for Real World Data
+### Deep Learning for Real World Uncurated Data
 - Long Tailed Learning
    - How should we handle imbalanced data?
-
-- Online Learning
-   - How should we handle streaming real time data?
      
 - Domain Generalization / Test-Time Adaptation
-### Tabular Data
-- Deep Tabular Learning
 
-- Decision tree based algorithms
+### Streaming Data
+- Online Learning
+- Continual Learning
+- Federated Learning
 
 ## :books: Skills
 ### Main
@@ -40,6 +38,10 @@
 - [Paper](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002879022)
 
 ## Conference
+### Local Pattern Preserving Training for Mask-to-SEM Generation Model
+- Korean Institute of Intelligent Systems Autumn Conference 2025 (KIIS)
+- Collaborated with Samsung
+  
 ### CAFTTA: Mitigating Unseen Class Forgetting in Test-Time Adaptation with Knowledge Fusion
 - Joint 13th International Conference on Soft Computing and Intelligent Systems and 25th International Symposium on Advanced Intelligent Systems (SCIS&ISIS)
 - [Paper](https://ieeexplore.ieee.org/document/10759970)
@@ -53,8 +55,7 @@
 
 ### Privacy-preserving ECG Stress Prediction via Federated Learning 
 - Korean Institute of Intelligent Systems Autumn Conference 2023 (KIIS)
-
+  
 ### Supervised Contrastive Learning for Improving Mental Illness Detection Using Smartwatch ECG 
 - Korean Artificial Intelligence Association Fall Conference 2023 (KAIA)
-
-
+- Collaborated with Hippo T&C
