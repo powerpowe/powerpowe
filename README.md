@@ -39,7 +39,7 @@
 
 ## Conference
 ### Stabilizing Open-Set Test-Time Adaptation via Primary-Auxiliary Filtering and Knowledge-Integrated Prediction
-- Accepted @ The 35th British Machine Vision Conference (BMVC)
+- Accepted @ The 36th British Machine Vision Conference (BMVC)
   
 ### Local Pattern Preserving Training for Mask-to-SEM Generation Model
 - Korean Institute of Intelligent Systems Autumn Conference 2025 (KIIS)
