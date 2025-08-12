@@ -1,6 +1,8 @@
-## :smile: Hi, I'm Lee Byung Joon (powerpowe) 
- :school: Bachelor of Science in Mathematics & Bachelor of Applied Artificial Intelligence
+## :smile: Hi, I'm Byung Joon Lee (powerpowe) 
+ :school: M.S. of **Computer Science and Engineering** (2024 - present)
 
+ :school: B.S. of **Mathematics** & **Applied Artificial Intelligence** (2020-2024)
+ 
  :lab_coat: [SKKU IISLab](http://iislab.skku.edu/iish/)
  
  :email: lbj2001@skku.edu / 2001lbj49@gmail.com
@@ -8,16 +10,7 @@
  :adult: [My blog](https://blog.naver.com/2001lbj)
  
 ## :balloon: Interests
-### Deep Learning for Real World Uncurated Data
-- Long Tailed Learning
-   - How should we handle imbalanced data?
-     
-- Domain Generalization / Test-Time Adaptation
-
-### Streaming Data
-- Online Learning
-- Continual Learning
-- Federated Learning
+I am interested in developing **robust AI models** for **suboptimal real-world data environments** (e.g., domain-shifted, class-imbalanced, noisy data). Additionally, I am engaged in learning methods for **streaming data** (e.g., continual learning, test-time adaptation).
 
 ## :books: Skills
 ### Main
@@ -32,12 +25,7 @@
 - Alternative Input Method Using Real-Time Face Recognition
   
 ## :page_with_curl: Papers
-## Journal
-### Non-contact Input Method based on Face Recognition and Pyautogui Mouse Control
-- Journal of the Korea Institute of Information and Communication Engineering (JKIICE)
-- [Paper](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002879022)
 
-## Conference
 ### Stabilizing Open-Set Test-Time Adaptation via Primary-Auxiliary Filtering and Knowledge-Integrated Prediction
 - Accepted @ The 36th British Machine Vision Conference (BMVC)
   
@@ -62,3 +50,7 @@
 ### Supervised Contrastive Learning for Improving Mental Illness Detection Using Smartwatch ECG 
 - Korean Artificial Intelligence Association Fall Conference 2023 (KAIA)
 - Collaborated with Hippo T&C
+
+### Non-contact Input Method based on Face Recognition and Pyautogui Mouse Control
+- Journal of the Korea Institute of Information and Communication Engineering (JKIICE)
+- [Paper](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002879022)
