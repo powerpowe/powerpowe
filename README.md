@@ -28,6 +28,7 @@ I am interested in developing **robust AI models** for **suboptimal real-world d
 
 ### Stabilizing Open-Set Test-Time Adaptation via Primary-Auxiliary Filtering and Knowledge-Integrated Prediction
 - Accepted @ The 36th British Machine Vision Conference (BMVC)
+- [Paper](https://arxiv.org/abs/2508.18751)
   
 ### Local Pattern Preserving Training for Mask-to-SEM Generation Model
 - Korean Institute of Intelligent Systems Autumn Conference 2025 (KIIS)
